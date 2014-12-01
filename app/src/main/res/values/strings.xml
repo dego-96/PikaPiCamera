@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PikaPiCamera</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Button Text -->
+    <string name="textButtonStart">撮影開始</string>
+    <string name="textButtonFinish">完了</string>
+    <string name="textButtonRestart">もう一度</string>
+
+</resources>
